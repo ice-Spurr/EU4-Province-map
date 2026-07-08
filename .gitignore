@@ -2,6 +2,11 @@
 !*/
 # track this file
 !.gitignore
-# whitelist everything in ./DEFAULT_values/ and qgz file
+# whitelist everything in ./DEFAULT_values/ except /Provinces 1.7
 !/DEFAULT_values/*
+!/DEFAULT_values/Python codes/*
+!/DEFAULT_values/trade_goods/*
+# whitelist the QGIS project file
 !Paradox Renewed.qgz
+
+

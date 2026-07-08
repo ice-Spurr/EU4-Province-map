@@ -1,0 +1,7 @@
+*
+!*/
+# track this file
+!.gitignore
+# whitelist everything in ./DEFAULT_values/ and qgz file
+!/DEFAULT_values/*
+!Paradox Renewed.qgz

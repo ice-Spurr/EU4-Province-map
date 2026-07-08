@@ -1,0 +1,9 @@
+CODE;Name;Category
+OWN_CORE;Core;Own
+DEP_PU;Personnal Union;Dependance
+DEP_VAS;Vassal;Dependance
+DEP_MAR;March;Dependance
+OWN_OUTPOST;Colonial Outpost;Own
+DEP_COL;Colonial Nation;Dependance
+OWN_COMM;Commercial Company;Own
+OWN_POS;Possession;Own (not cored)
